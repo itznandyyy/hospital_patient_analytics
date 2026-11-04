@@ -195,6 +195,8 @@ Revenue declined between January and December. However, one year of data is insu
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```text
 hospital_patient_analytics/
 │
@@ -203,8 +205,7 @@ hospital_patient_analytics/
 ├── Acte_Hospital_Data.sql
 ├── Acte_Hospital_Data.ipynb
 ├── Acte_Hospital_Data.pbix
-├── Dashboard.png
-    
+└── Dashboard.png
 ```
 
 ## How to Run the Project
