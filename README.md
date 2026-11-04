@@ -228,8 +228,6 @@ pip install pandas matplotlib jupyter
 ```
 Launch Jupyter Notebook:
 
-jupyter notebook Hospital_Analytics_Portfolio.ipynb
-
 Open `Acte_Hospital_Data.ipynb` from the repository root and run the cells from top to bottom.
 
 Keep hospitaldata.csv in the same folder as the notebook.
