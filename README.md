@@ -195,8 +195,6 @@ Revenue declined between January and December. However, one year of data is insu
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```text
 hospital_patient_analytics/
 │
